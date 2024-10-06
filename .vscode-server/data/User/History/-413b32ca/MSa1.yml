@@ -1,0 +1,5 @@
+---
+- hosts: all
+  become: True
+  ignore_errors: 1
+  gather_facts: yes

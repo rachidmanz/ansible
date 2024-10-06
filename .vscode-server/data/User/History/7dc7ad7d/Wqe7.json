@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.iconTheme": "file-icons",
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "git.openRepositoryInParentFolders": "never",
+    "explorer.confirmDelete": false,
+    "remote.SSH.remotePlatform": {
+        "ansible-master": "linux"
+    }
+}

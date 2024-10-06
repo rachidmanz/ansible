@@ -1,0 +1,9 @@
+---
+- hosts: ws
+  become: True
+  ignore_errors: 1
+  gather_facts: yes
+  vars:
+    f_name: John
+  tasks:
+      
